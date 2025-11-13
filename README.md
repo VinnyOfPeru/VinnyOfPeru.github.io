@@ -55,7 +55,6 @@ h3 {
         
 
 <img width="400" height="400" alt="My-Image" src="https://github.com/user-attachments/assets/b767feab-9ed2-414c-9784-177c8028623e" />
-    align:Center
     </div>
 </body>
 </html>
