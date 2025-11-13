@@ -2,8 +2,8 @@
 <html>
 <head>
 <style>
-body {
-    background: #785D53;
+<body style="background-image: url(
+'https://media
     font-family: Verdana;
     color: white
 }  
