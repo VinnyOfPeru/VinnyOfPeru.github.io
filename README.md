@@ -2,8 +2,7 @@
 <html>
 <head>
 <style>
-<body style="background-image: url(
-['https://media](https://tse4.mm.bing.net/th/id/OIP.YNdHF7hSKLpckxUiIN39MQHaEJ?cb=ucfimg2ucfimg=1&w=626&h=351&rs=1&pid=ImgDetMain&o=7&rm=3)
+    background: lightgreen;
     font-family: Verdana;
 }  
 #content {
