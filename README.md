@@ -5,7 +5,7 @@ body {
     background-image: url('https://wallpaper.dog/large/10699663.jpg');
     background-size: 1000px;
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center top; 
     font-family: Verdana;
     color: black;
     margin: 0;
@@ -15,8 +15,8 @@ body {
     background: #f5f5f2;
     min-width: 1000px;
     max-width: 1900px;
-    padding: 0px;
-    margin: 0px;
+    padding: 20px;
+    margin: 50px;
     margin-top: 250px;
     line-height: 150%;
     color: black;
