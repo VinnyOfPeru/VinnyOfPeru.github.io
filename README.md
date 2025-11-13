@@ -3,7 +3,7 @@
 <style>
 body {
     background-image: url('https://wallpaper.dog/large/10699663.jpg');
-    background-size: 2000px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
     font-family: Verdana;
@@ -17,7 +17,7 @@ body {
     max-width: 1000px;
     padding: 50px;
     margin: auto;
-    margin-top: -50px;
+    margin-top: 150px;
     line-height: 150%;
 }
 h1 {
