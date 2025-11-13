@@ -1,4 +1,3 @@
-# VinnyOfPeru.github.io
 <html>
 <head>
 <style>
