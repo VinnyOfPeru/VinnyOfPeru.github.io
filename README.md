@@ -4,7 +4,7 @@
 body {
     background: #f5f5f2;
     font-family: Verdana;
-    color: white
+    color: black
 }  
 #content {
     background: #B3E7AA;
