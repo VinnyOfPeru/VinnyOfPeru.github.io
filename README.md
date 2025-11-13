@@ -14,7 +14,7 @@ body {
 #content {
     background: #f5f5f2;
     min-width: 500px;
-    max-width: 1500px;
+    max-width: 1900px;
     padding: 50px;
     margin: auto;
     margin-top: 250px;
