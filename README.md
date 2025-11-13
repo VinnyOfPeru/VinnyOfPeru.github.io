@@ -47,7 +47,8 @@ h3 {
         Highschool, currently enrolled as a sophomore in college<br />
         Bob Jones University<br />
         Example image:
-        <img src="[https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png](https://tse4.mm.bing.net/th/id/OIP.YNdHF7hSKLpckxUiIN39MQHaEJ?cb=ucfimg2ucfimg=1&w=626&h=351&rs=1&pid=ImgDetMain&o=7&rm=3)" />
+        <img src="Geeks/HTML-tutorial.jpg" alt="HTML Tutorial"
+        width="350px" height="230px">
     </div>
 </body>
 </html>
