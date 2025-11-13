@@ -1,12 +1,13 @@
 <html>
 <head>
 <style>
-    background: lightgreen;
+body {
+    background: #785D53;
     font-family: Verdana;
-    color: Red
+    color: white
 }  
 #content {
-    background: lightyellow;
+    background: #B3E7AA;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
