@@ -15,8 +15,8 @@ body {
     background: #f5f5f2;
     min-width: 1000px;
     max-width: 1900px;
-    padding: 20px;
-    margin: auto;
+    padding: 50px;
+    margin: 20px;
     margin-top: 250px;
     line-height: 150%;
 }
