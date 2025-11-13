@@ -2,6 +2,7 @@
 <head>
 <style>
 body {
+    <body style="background-image: url(https://wallpaper.dog/large/10699663.jpg); background-size: cover; background-repeat: no-repeat; background-position: top;">
     background: #f5f5f2;
     font-family: Verdana;
     color: black
