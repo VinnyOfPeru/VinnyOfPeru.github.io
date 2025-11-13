@@ -5,7 +5,7 @@ body {
     background-image: url('https://wallpaper.dog/large/10699663.jpg');
     background-size: 1000px;
     background-repeat: no-repeat;
-    background-position: top;/* Shift 50px to the right */
+    background-position: top;
 }
     background-align: center;
     font-family: Verdana;
