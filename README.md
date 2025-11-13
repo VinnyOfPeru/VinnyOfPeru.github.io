@@ -9,7 +9,7 @@ body {
     font-family: Verdana;
     color: black;
     margin: 20px;
-    padding: 0;
+    padding: 50px;
     text-align: center;
 }  
 #content {
