@@ -2,8 +2,8 @@
 <head>
 <style>
 body {
-    background-color: black;
-    background-image: <img![oknight](https://github.com/user-attachments/assets/12ba22fe-0371-4b13-babb-3e46dd90dc58)/>;
+    background-color: #e5e5e2;
+    background-image:
     background-size: 1000px;
     background-repeat: no-repeat;
     background-position: center top; 
