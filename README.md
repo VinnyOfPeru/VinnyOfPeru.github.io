@@ -2,12 +2,12 @@
 <head>
 <style>
 body {
+    background-color: black;
     background-image: url('https://wallpaper.dog/large/10699663.jpg');
     background-size: 1000px;
     background-repeat: no-repeat;
     background-position: center top; 
     font-family: Verdana;
-    color: black;
     margin: 0;
     padding: 0;
 }  
