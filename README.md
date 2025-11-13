@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-    background: #785D53;
+    background: #f5f5f2;
     font-family: Verdana;
     color: white
 }  
