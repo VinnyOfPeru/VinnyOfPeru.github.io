@@ -6,7 +6,7 @@
     font-family: Verdana;
 }  
 #content {
-    background: #B3E7AA;
+    background: lightyellow;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
