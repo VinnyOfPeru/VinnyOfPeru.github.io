@@ -49,7 +49,7 @@ h3 {
         Bob Jones University<br />
         
 
-<img width="500" height="500" alt="My-Image" src="https://github.com/user-attachments/assets/b767feab-9ed2-414c-9784-177c8028623e" />
+<img width="300" height="300" alt="My-Image" src="https://github.com/user-attachments/assets/b767feab-9ed2-414c-9784-177c8028623e" />
     </div>
 </body>
 </html>
