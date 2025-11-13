@@ -46,8 +46,8 @@ h3 {
         <h3>EDUCATION</h3>
         Highschool, currently enrolled as a sophomore in college<br />
         Bob Jones University<br />
-        Example image:
-        <img src=<img width="1280" height="1280" alt="My-Image" src="https://github.com/user-attachments/assets/6f603ca2-d2ac-4f6a-80a5-a2e7de0f0e6f" />
+        
+        <img src=<img width="1280" height="1280" alt=src="https://github.com/user-attachments/assets/6f603ca2-d2ac-4f6a-80a5-a2e7de0f0e6f" />
 "<img width="500" height="500" alt="My-Image" src="https://github.com/user-attachments/assets/b767feab-9ed2-414c-9784-177c8028623e" />
 " alt="HTML Tutorial"
     </div>
