@@ -36,8 +36,8 @@ h3 {
         
          <p>I am a sophomore at Bob Jones University majoring in Business administration with a concentration in finance. I am in the Phi Kappa Pi Rams Society</p>
          <p>
-            I am part of Morningside Baptist Church. My favorite website is  
-            <a href="https://www.marshallstreetdiscgolf.com/">Marshall street.com</a>, and you can email me  
+            I am part of Morningside Baptist Church. My favorite website is at  
+            <a href="https://www.marshallstreetdiscgolf.com/">Marshallstreet.com</a>, and you can email me  
             <a href="vash680@students.bju.edu">here</a>.
          </p> 
          <p>
