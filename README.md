@@ -6,11 +6,11 @@ body {
     background-size: 1000px;
     background-repeat: no-repeat;
     background-position: top;
+    background-align: center;
     font-family: Verdana;
     color: black;
     margin: 20px;
     padding: 0;
-    text-align: center;
 }  
 #content {
     background: #f5f5f2;
