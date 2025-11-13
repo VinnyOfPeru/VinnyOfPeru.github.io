@@ -4,6 +4,7 @@
 <style>
     background: lightgreen;
     font-family: Verdana;
+    color: Red
 }  
 #content {
     background: lightyellow;
