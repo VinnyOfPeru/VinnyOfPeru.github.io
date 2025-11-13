@@ -17,7 +17,7 @@ body {
     max-width: 1900px;
     padding: 20px;
     margin: 50px;
-    margin-top: 250px;
+    margin-top: 110px;
     line-height: 150%;
     color: black;
 }
