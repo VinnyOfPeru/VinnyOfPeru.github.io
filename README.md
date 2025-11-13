@@ -7,7 +7,7 @@ body {
     color: black
 }  
 #content {
-    background: #B3E7AA;
+    background: #f5f5f2;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -19,6 +19,7 @@ h1 {
     letter-spacing: 2px;
     font-size: 16px;
     text-align: center;
+    Strong:
 }
 h2 {
     font-size: 14px;
