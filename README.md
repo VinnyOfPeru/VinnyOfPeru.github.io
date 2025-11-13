@@ -3,13 +3,14 @@
 <style>
 body {
     background-image: url('https://wallpaper.dog/large/10699663.jpg');
-    background-size: 900px;
+    background-size: 1000px;
     background-repeat: no-repeat;
     background-position: top;
     font-family: Verdana;
     color: black;
     margin: 0;
     padding: 0;
+    text-align: center;
 }  
 #content {
     background: #f5f5f2;
