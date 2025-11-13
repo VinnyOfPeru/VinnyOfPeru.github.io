@@ -13,7 +13,7 @@ body {
 }  
 #content {
     background: #f5f5f2;
-    min-width: 200px;
+    min-width: 500px;
     max-width: 500px;
     padding: 50px;
     margin: auto;
