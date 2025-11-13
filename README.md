@@ -26,7 +26,6 @@ h1 {
     letter-spacing: 2px;
     font-size: 16px;
     text-align: center;
-    Strong:
 }
 h2 {
     font-size: 14px;
