@@ -49,7 +49,7 @@ h3 {
             <a href="vash680@students.bju.edu">here</a>.
          </p> 
          <p>
-           I enjoy watching college basketball, listening to '90s rock, and having meaningful conversations. I also enjoy playing sports; I especially love disc golf, basketball, and volleyball. Other things I enjoy are writing poetry, sleeping in, watching anime, playing RPGs, and dabbling in digital art (at the bottom of the page is my first piece of digital artwork).
+           I enjoy watching college basketball, listening to '90s alt rock, and having meaningful conversations. I also enjoy playing sports; I especially love disc golf, basketball, and volleyball. Other things I enjoy are writing poetry, sleeping in, watching anime, playing RPGs, and dabbling in digital art (at the bottom of the page is my first piece of digital artwork).
          </p>
         <h3>PERSONALITY</h3>
         I’m the type of person who hates small talk but also doesn’t have the social skills to start conversations of any importance with new people.  The culture of relationships being like a game where if you make a wrong decision, you get the bad ending like in an RPG, gets on my nerves. I like to think I’m funny, I’m undoubtedly awkward, and I genuinely care about people.<br />
