@@ -8,7 +8,7 @@ body {
     background-position: top;
     font-family: Verdana;
     color: black;
-    margin: 0;
+    margin: 20px;
     padding: 0;
     text-align: center;
 }  
