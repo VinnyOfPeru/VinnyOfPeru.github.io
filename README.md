@@ -3,7 +3,7 @@
 <style>
 body {
     background-image: url('https://wallpaper.dog/large/10699663.jpg');
-    background-size: cover;
+    background-size: 500px;
     background-repeat: no-repeat;
     background-position: top;
     font-family: Verdana;
