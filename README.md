@@ -41,13 +41,13 @@ h3 {
             <a href="vash680@students.bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to the most depressing music I can find and having deep conversations, for sports I love disc golf, basketball, and volleyball. Other things I enjoy are writing poetry, sleeping in, anime, and RPGs.
+            I enjoy watching college basketball, listening to 90s rock and having meaningful conversations. I also enjoy sports I espesially love disc golf, basketball, and volleyball. Other things I enjoy are writing poetry, sleeping in, anime, and RPGs.
          </p>
         <h3>EDUCATION</h3>
         Highschool, currently enrolled as a sophomore in college<br />
         Bob Jones University<br />
         Example image:
-        <img src="https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png" />
+        <img src="[https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png](https://tse4.mm.bing.net/th/id/OIP.YNdHF7hSKLpckxUiIN39MQHaEJ?cb=ucfimg2ucfimg=1&w=626&h=351&rs=1&pid=ImgDetMain&o=7&rm=3)" />
     </div>
 </body>
 </html>
